@@ -1,4 +1,4 @@
-# python3-classes-inheritance
+# python3-class-inheritance
 
 Object Oriented programming was developed to handle rapidly increasing size and complexity of software systems and to make it easier to modify these large and complex systems over time. In Object Oriented Programming, the focus is on creation of objects containing both data and functionality together. Generally, each object definition corresponds to some object or concept in real world and the functions that operate on the object correspond to the ways real-world objects interact.
 
@@ -13,3 +13,8 @@ An object has a state and a collection of methods that it can perform. The state
 
 Classes are generally defined by the user or Python language. classes like str, int, float and list are all defined by Python and are available to use.
 
+
+
+
+
+# python3-pointers
