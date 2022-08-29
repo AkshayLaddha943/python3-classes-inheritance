@@ -18,3 +18,11 @@ Classes are generally defined by the user or Python language. classes like str, 
 
 
 # python3-pointers
+
+Every variable has a corresponding memory location and every memory location has a corresponding address defined for it. Pointers store the address of other variables
+
+A Python object comprises of three parts:
+
+* Reference count: number of variables that refer to a particular memory location
+* Type: refers to the object type. Examples of Python types include int, float, string, and boolean
+* Value: is the actual value of the object that is stored in the memory
